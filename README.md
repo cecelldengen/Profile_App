@@ -31,5 +31,5 @@ Project ini dibuat dengan:
 ---
 ## 📸 Preview
 
-![Preview]("C:\Users\Asus\OneDrive\Pictures\Screenshots\preview.png")
+![Preview]("assets/images/preview.png)
 
