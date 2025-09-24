@@ -29,3 +29,7 @@ Project ini dibuat dengan:
 - [url_launcher](https://pub.dev/packages/url_launcher) → untuk membuka link eksternal
 
 ---
+## 📸 Preview
+
+![Preview]("C:\Users\Asus\OneDrive\Pictures\Screenshots\preview.png")
+
